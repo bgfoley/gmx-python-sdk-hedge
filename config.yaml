@@ -1,8 +1,8 @@
-rpcs:
-  arbitrum: arbitrum_rpc
-  avalanche: avax_rpc
 chain_ids:
   arbitrum: 42161
   avalanche: 43114
-private_key: private_key
-user_wallet_address: user_wallet_address
+private_key: 4624deb6f549092de32f9b96e1eeef9e8b5d289e61305671e3ba704ac927368f
+rpcs:
+  arbitrum: https://arbitrum-mainnet.infura.io/v3/24ac2373f6a04eb0a567ede3c34722da
+  avalanche: https://avalanche-mainnet.infura.io/v3/24ac2373f6a04eb0a567ede3c34722da
+user_wallet_address: '0x22F48994C3D50A24728e5e466f9d8B8980215218'
