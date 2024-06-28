@@ -1,3 +1,8 @@
+Notes:
+CLI - python get_positions.py <your_address>
+
+
+
 
 # GMX Python SDK
 
